@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 3355
 framework: 框架nginx,redis,docker,mq
 suanfa: 算法
 mode: 设计模式
